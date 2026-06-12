@@ -8,13 +8,13 @@
     "dark": "#15803D"
   },
   "favicon": "/favicon.svg",
-  "navigation": {
-    "pages": [
-      {
-        "group": "Getting Started",
-        "pages": [
-          "index",
-          "quickstart"
+{
+  "navigation": [
+    {
+      "group": "Getting Started",
+      "pages": [
+        "index",
+        "starting-the-training"
         ]
       }
     ],
