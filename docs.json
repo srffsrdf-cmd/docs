@@ -5,16 +5,14 @@
   "colors": {
     "primary": "#0D9373"
   },
-  "navigation": {
-    "groups": [
-      {
-        "group": "Getting Started",
-        "pages": [
-          "index",
-          "starting-the-training",
-          "testing.mdx"
-        ]
-      }
-    ]
-  }
+  "navigation": [
+    {
+      "group": "Getting Started",
+      "pages": [
+        "index",
+        "starting-the-training",
+        "testing"
+      ]
+    }
+  ]
 }
