@@ -10,9 +10,14 @@
       {
         "group": "Getting Started",
         "pages": [
-          "index",
+          "index"
+        ]
+      },
+      {
+        "group": "During Training",
+        "pages": [
           "starting-the-training",
-          "testing"
+          "templete"
         ]
       }
     ]
