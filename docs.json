@@ -11,7 +11,8 @@
         "group": "Getting Started",
         "pages": [
           "index",
-          "starting-the-training"
+          "starting-the-training",
+          "testing.mdx"
         ]
       }
     ]
