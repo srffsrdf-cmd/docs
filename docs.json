@@ -5,14 +5,16 @@
   "colors": {
     "primary": "#0D9373"
   },
-  "navigation": [
-    {
-      "group": "Getting Started",
-      "pages": [
-        "index",
-        "starting-the-training",
-        "testing"
-      ]
-    }
-  ]
+  "navigation": {
+    "groups": [
+      {
+        "group": "Getting Started",
+        "pages": [
+          "index",
+          "starting-the-training",
+          "testing"
+        ]
+      }
+    ]
+  }
 }
