@@ -1,13 +1,19 @@
 {
+  "$schema": "https://mintlify.com/docs.json",
   "name": "FHP Trainer Guide",
   "theme": "mint",
-  "navigation": [
-    {
-      "group": "Getting Started",
-      "pages": [
-        "index",
-        "starting-the-training"
-      ]
-    }
-  ]
+  "colors": {
+    "primary": "#0D9373"
+  },
+  "navigation": {
+    "groups": [
+      {
+        "group": "Getting Started",
+        "pages": [
+          "index",
+          "starting-the-training"
+        ]
+      }
+    ]
+  }
 }
