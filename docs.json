@@ -12,6 +12,7 @@
         "pages": [
           "index",
           "starting-the-training"
+          "welcome.mdx"
         ]
       }
     ]
