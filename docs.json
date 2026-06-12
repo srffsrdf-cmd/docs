@@ -1,5 +1,6 @@
 {
   "name": "FHP Trainer Guide",
+  "theme": "mint",
   "navigation": [
     {
       "group": "Getting Started",
