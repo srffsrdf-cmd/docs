@@ -5,34 +5,27 @@
   "colors": {
     "primary": "#0D9373"
   },
-  "navigation": {
-    "products": [
-      {
-        "product": "Florida Highway Patrol Training GUide",
-        "pages": [
-          {
-            "group": "Getting Started",
-            "pages": [
-              "welcome"
-            ]
-          },
-          {
-            "group": "Training Guide Phase One",
-            "pages": [
-              "",
-              "section-ii",
-              "section-iii",
-              "section-iv"
-            ]
-          },
-          {
-            "group": "Recourses",
-            "pages": [
-              "ten-codes"
-            ]
-          }
-        ]
-      }
-    ]
-  }
+  "navigation": [
+    {
+      "group": "Getting Started",
+      "pages": [
+        "welcome"
+      ]
+    },
+    {
+      "group": "Training Guide Phase One",
+      "pages": [
+        "",
+        "section-ii",
+        "section-iii",
+        "section-iv"
+      ]
+    },
+    {
+      "group": "Recourses",
+      "pages": [
+        "ten-codes"
+      ]
+    }
+  ]
 }
