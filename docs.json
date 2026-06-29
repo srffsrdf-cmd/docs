@@ -16,15 +16,26 @@
       {
         "group": "Training Guide Phase One",
         "pages": [
+          "section-i",
           "section-ii",
           "section-iii",
-          "section-iv"
+          "section-iv",
+          "section-iv-1"
         ]
       },
       {
         "group": "Recourses",
         "pages": [
-          "ten-codes"
+          "ten-codes",
+          "req-before-starting-ra"
+        ]
+      },
+      {
+        "group": "Ride Along Phase Two",
+        "pages": [
+          "introduction",
+          "training-handout",
+          "conclusion"
         ]
       }
     ]
